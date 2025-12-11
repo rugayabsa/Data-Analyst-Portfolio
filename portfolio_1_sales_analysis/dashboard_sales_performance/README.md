@@ -62,3 +62,26 @@ Dashboard Sales Performance - Sales Activity Deep Dive
 * Sales team performance appears volume-driven, not conversion-driven.
 * Improving outreach frequency will directly improve deals
 * Additional training may help increase conversion % on low-performing days.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Dashboard Sales Distribution
+
+1. Visit and Deal Distribution
+
+* Daily visits cluster around 20–35, indicating a stable sales activity baseline.
+* Deals distribution is right-skewed, meaning high deal days occur but inconsistently.
+
+2. Productivity Trend
+
+* Some days require >10 visits per deal, indicating low efficiency.
+* Best-performing days only require 4–6 visits per deal, showing the potential achievable efficiency level.
+* Productivity dips often follow high-visit days → possible sales fatigue or low-quality leads.
+
+3. Conversion Rate Distribution
+
+* Median conversion rate stays around 12–15%.
+* Outliers show unusually low conversion (<5%) which may indicate:
+  * wrong targeting,
+  * poor lead quality,
+  * inconsistent sales execution.
