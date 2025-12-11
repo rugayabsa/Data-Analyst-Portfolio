@@ -23,16 +23,15 @@ DASHBOARD INSIGHT:
 - The scatter plot reveals a clear positive correlation between visits and deals.
 - This confirms that sales activity is a key driver of deal generation and can be a reliable predictor of expected daily performance.
 
-📌 Key Takeaways
+Key Takeaways
 
 - Increased visits → increased deals → more stable conversion rates.
 - Significant performance uplift toward the end of the month likely indicates sales cadence or targeted efforts.
 - Activity metrics can reliably be used to forecast sales productivity.
 
-💼 Business Recommendations
+Business Recommendations
 
 - Implement a minimum daily visit quota to maintain consistent deal generation.
 - Analyze high-conversion days to identify successful sales behaviors and replicate them.
 - Improve follow-up strategies during low-performance periods.
-
-Develop a real-time monitoring dashboard to track visit–deal disparities and guide decision-making.
+- Develop a real-time monitoring dashboard to track visit–deal disparities and guide decision-making.
