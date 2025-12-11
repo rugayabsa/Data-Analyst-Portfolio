@@ -1,4 +1,4 @@
-DASHBOARD INSIGHT:
+DASHBOARD Sales Performance INSIGHT:
 
 1. Visit Trend
 
@@ -35,3 +35,30 @@ Business Recommendations
 - Analyze high-conversion days to identify successful sales behaviors and replicate them.
 - Improve follow-up strategies during low-performance periods.
 - Develop a real-time monitoring dashboard to track visit–deal disparities and guide decision-making.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Dashboard Sales Performance - Sales Activity Deep Dive
+
+1. Distribution Insights
+
+* Visits distribution is slightly right-skewed, indicating the sales team gradually increases activity toward the end of the month.
+* Deals distribution also increases over time, confirming a consistent performance pattern aligned with rising visit counts.
+
+2. Conversion Rate Outlier Check
+
+* Boxplot analysis shows no extreme outliers, meaning conversion behavior is relatively stable.
+* However, the conversion rate fluctuates between ~5% and 25%, suggesting certain days have significantly better execution quality.
+
+3. Correlation Analysis
+
+* Strong positive correlation (r ≈ 0.92) between visits and deals, confirming:
+  * More outreach directly drives more closed deals.
+* Conversion rate has weaker correlation with both metrics, meaning:
+  * Productivity (number of visits) matters more than efficiency (conversion %) in this dataset.
+
+4. Key Takeaways
+
+* Sales team performance appears volume-driven, not conversion-driven.
+* Improving outreach frequency will directly improve deals
+* Additional training may help increase conversion % on low-performing days.
