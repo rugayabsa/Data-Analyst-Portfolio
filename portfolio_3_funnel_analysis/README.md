@@ -1,12 +1,15 @@
-Project 3 — Customer Visit → Order Funnel & Behavioral Insights
+Project 3 — Customer Visit → Order Funnel & Behavior Analysis
 
-Tools: Python, Pandas, Plotly, Seaborn
-Dataset: E-commerce customer behavior dataset (public)
+Tools: Python (Pandas, Matplotlib/Seaborn), Google Colab / Jupyter
+Dataset: Public E-Commerce / Sales Funnel Dataset
 
-Highlights:
+Highlights
+- Built an end-to-end customer funnel from visits to completed orders
+- Analyzed drop-off rates at each funnel stage to identify conversion bottlenecks
+- Evaluated customer behavior patterns across different engagement levels
+- Measured conversion efficiency and visit-to-order ratios as performance proxies
+- Identified segments with high engagement but low conversion potential
+- Delivered data-driven recommendations to improve follow-up strategy and conversion rate
 
-* Modeled full funnel: Visit → View Product → Cart → Checkout → Order
-* Identified biggest drop-off points and behavioral bottlenecks
-* Built funnel visualizations and conversion metrics
-* Analyzed returning vs new customers
-* Provided strategic recommendations for increasing conversion rate
+Business Value:
+Supports sales and marketing teams in prioritizing high-impact funnel stages, improving lead handling efficiency, and increasing overall conversion performance.
