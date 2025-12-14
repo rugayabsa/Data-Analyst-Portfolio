@@ -1,6 +1,5 @@
 Project 1 — Sales Activity Performance & Business Insights
 
-Role: Data Analyst
 Tools: Python (Pandas, Matplotlib, Seaborn), SQL, Google Colab
 Dataset: Public Sales Dataset (Superstore / Sample Sales Data)
 
