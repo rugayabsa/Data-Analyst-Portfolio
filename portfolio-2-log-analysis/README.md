@@ -1,12 +1,15 @@
-Project 2 — System Log Analysis & Anomaly Detection
+Project 2 — System Activity Log Analysis & Anomaly Detection
 
-Tools: Python (Regex, Pandas), Matplotlib, Google Colab
-Dataset: Web Server Access Logs (public dataset)
+Tools: Python (Pandas, Regex, Matplotlib/Seaborn), Google Colab / Jupyter
+Dataset: Public Web Server Access Logs Dataset
 
-Highlights:
+Highlights
+- Parsed and transformed raw web server log files into structured analytical tables
+- Cleaned inconsistent timestamps, malformed requests, and missing user identifiers
+- Conducted exploratory analysis on traffic volume, request patterns, and error rates
+- Identified anomalies such as traffic spikes, abnormal request frequencies, and error bursts
+- Detected potential data quality issues and suspicious activity pattern.
+- Produced operational insights to support monitoring, alerting, and system reliability
 
-* Parsed unstructured log files into structured DataFrame
-* Detected anomalies such as unusual traffic spikes, suspicious IP behavior
-* Identified missing or incomplete logs
-* Conducted behavior analysis by time, endpoint, status code, IP pattern
-* Proposed monitoring strategy to improve system reliability
+Business Value:
+Helps organizations proactively monitor system health, detect abnormal behaviors early, and improve data reliability for downstream analytics.
